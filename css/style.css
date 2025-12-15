@@ -1,3 +1,6 @@
+a {
+  text-decoration: none;
+}
 .nav-pills {
   --bs-nav-pills-link-active-bg: #1d96dbe0;
 }
